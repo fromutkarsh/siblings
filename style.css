@@ -40,6 +40,7 @@ body{
 }
 .card-name{
   font-size: 30px;
+  color: rgb(0, 255, 255);
 }
 .card-image{
   width: 100%;
@@ -66,4 +67,5 @@ body{
 }
 .desc-name{
   font-weight: bold;
+  color: rgb(0, 255, 255);
 }
