@@ -29,7 +29,7 @@ body{
   align-items: center;
   gap: 12px;
   padding: 20px;
-  width: 35%;
+  width: 90%;
   max-width: 400px;
   height: auto;
   background-image:linear-gradient(to bottom right, rgba(255,255,255,0.12), rgba(0,0,0,0.13));
